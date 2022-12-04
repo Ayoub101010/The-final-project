@@ -1,0 +1,32 @@
+#table, td{
+    border: 1px solid;
+    width: auto;
+    background-color: rgb(124, 65, 225);
+    border-collapse: collapse;
+    border-spacing: 0;
+    
+
+}
+.palmares{
+    border: 1px solid;
+    position: absolute  ;
+    width: 90%;
+    height: 10;
+    
+    border-color: rgb(18, 18, 35);
+    background-origin: border-box;
+    border-radius:auto;
+    background-color: rgba(61, 5, 119, 0.489);
+
+    
+
+}
+.card-2{
+    background-color: aquamarine;
+    height:100%;
+    overflow: auto;
+}
+
+button {
+    background-color: aqua;
+}
